@@ -65,7 +65,7 @@ class Login extends Component {
                 <form>
 ```
 
-La respuesta generada es un componente base en ReactJS para el inicio de sesión, utilizando Formik para el manejo del formulario. El código muestra la estructura básica de un componente de inicio de sesión con campos de entrada para el nombre de usuario y contraseña. Además, el código utiliza axios para realizar una solicitud POST a "/api/login" con los datos del formulario. Si la solicitud es exitosa, los datos de nombre de usuario y contraseña se actualizan en el estado del componente.
+La respuesta generada es un componente base en ReactJS para el inicio de sesión, utilizando Formik para el manejo del formulario.
 
 ## Conclusiones
 
