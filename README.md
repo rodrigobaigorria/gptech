@@ -52,5 +52,3 @@ El archivo `gptech.py` contiene el código principal de este proyecto. Siga esto
 ## Información adicional
 
 Si desea obtener más detalles sobre el funcionamiento del script o información adicional, consulte el archivo `README-GPTECH.md` adjunto en el directorio raíz del proyecto. Proporcionará una descripción más detallada de las funciones y características del script.
-
-¡Disfrute usando este proyecto! Si tiene alguna pregunta o necesita asistencia adicional, no dude en comunicarse con el equipo de soporte.
