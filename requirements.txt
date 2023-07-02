@@ -2,5 +2,6 @@ transformers
 sentencepiece
 sacremoses
 tensorflow
+curtsies
 torch 
 torchvision
