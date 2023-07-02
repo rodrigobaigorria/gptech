@@ -65,7 +65,6 @@ class Login extends Component {
                 <form>
 ```
 
-La respuesta generada es un componente base en ReactJS para el inicio de sesión, utilizando Formik para el manejo del formulario.
 
 ## Conclusiones
 
